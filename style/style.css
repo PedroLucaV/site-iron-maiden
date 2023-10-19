@@ -97,3 +97,41 @@ span{
     text-align: center;
     font-size: 10pt;
 }
+
+.capa{
+    margin: auto;
+    display: flex;
+    width: 1000px;
+    height: 300px;
+    flex-direction: row;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+}
+
+.album{
+    height: 250px;
+    width: 250px;
+}
+
+a{
+    height: 250px;
+    width: 250px;
+}
+
+.spot{
+    align-items: center;
+}
+
+.about_album{
+    font-size: 16pt;
+    text-align: center;
+}
+
+.albuns{
+    margin: auto;
+    display: flex;
+    margin-top: 50px;
+    width: 750px;
+    border: 3px solid red;
+}
